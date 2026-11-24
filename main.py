@@ -1,9 +1,9 @@
 import os
 
 LINE = (
-    "After 214 nights of failed builds, she ran the tests one more time "
-    "and just sat there, smiling at a wall of green she had earned one "
-    "red at a time."
+    "After 214 nights of failed builds, she ran the tests one last time "
+    "and sat in the quiet, smiling at a wall of green earned one red at "
+    "a time."
 )
 
 
